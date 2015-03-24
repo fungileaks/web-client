@@ -1,4 +1,4 @@
-{
+  {
   "name": "web-client",
   "version": "0.0.0",
   "description": "Small description for web-client goes here",
@@ -33,6 +33,7 @@
     "ember-data": "1.0.0-beta.12",
     "ember-export-application-global": "^1.0.0",
     "express": "^4.8.5",
-    "glob": "^4.0.5"
+    "glob": "^4.0.5",
+    "rimraf":"2.2.8"
   }
 }
